@@ -6,7 +6,7 @@ variable "ami_id" {
 
 variable "key_name" {
   type = string
-  default = "toynet-2020"
+  default = "toynet-key-theo-2020"
 }
 
 variable "instance_names" {

@@ -1,5 +1,5 @@
-instance_names = ["toynet-tay"]
+instance_names = ["toynet-theo"]
 instance_count = 1
 
-ami_id = "ami-0ae6b743a09efa056"
-key_name = "toynet-2020"
+ami_id = "ami-0303d20c69955b4b5"
+key_name = "toynet-key-theo-2020"
